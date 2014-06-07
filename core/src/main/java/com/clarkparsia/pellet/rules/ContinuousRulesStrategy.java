@@ -228,7 +228,7 @@ public class ContinuousRulesStrategy extends SROIQStrategy {
 					}
 					
 					// possible place to hook? #hookRuleApplied
-					System.out.println(total + ".");
+					System.out.println("Add a call to service thread here???");
 					System.out.println("----------------------------------------");
 					System.out.println(rule);
 					System.out.println("----------------------------------------");
